@@ -20,9 +20,7 @@ public class BinarySearch {
     }  
   }  
   public static void main(String args[]){  
-        //  int arr[] = {10,20,30,40,50};  
-        //  int key = 30;  
-         int[] arr = new int[10];
+    int[] arr = new int[10];
     Scanner scanner = new Scanner(System.in);
     System.out.println("Enter array");
     for (int i = 0; i < arr.length; i++) {
